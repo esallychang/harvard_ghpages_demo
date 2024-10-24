@@ -6,7 +6,7 @@ date: "Edited October 15th, 2024"
 
 Approximate time: 40 minutes
 
-## Learning objectives
+## LOOK AT MY EDIT! 
 
 -   Understand the different steps of the RNA-seq workflow, from RNA extraction to assessing the expression levels of genes.
 
